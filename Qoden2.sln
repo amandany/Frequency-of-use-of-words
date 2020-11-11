@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qoden2", "Qoden2\Qoden2.csproj", "{24E157F8-21AC-4A2C-9B43-C7880E21E96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E157F8-21AC-4A2C-9B43-C7880E21E96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E157F8-21AC-4A2C-9B43-C7880E21E96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E157F8-21AC-4A2C-9B43-C7880E21E96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E157F8-21AC-4A2C-9B43-C7880E21E96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
