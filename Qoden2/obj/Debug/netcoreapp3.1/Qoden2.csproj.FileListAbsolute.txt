@@ -24,3 +24,16 @@ D:\1REPOS\Qoden2\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.csproj.CoreCompileInputs.
 D:\1REPOS\Qoden2\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.dll
 D:\1REPOS\Qoden2\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.pdb
 D:\1REPOS\Qoden2\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.genruntimeconfig.cache
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.exe
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.deps.json
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.runtimeconfig.json
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.runtimeconfig.dev.json
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.dll
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\bin\Debug\netcoreapp3.1\Qoden2.pdb
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.csprojAssemblyReference.cache
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.AssemblyInfoInputs.cache
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.AssemblyInfo.cs
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.csproj.CoreCompileInputs.cache
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.dll
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.pdb
+D:\1REPOS\Frequency-of-use-of-words\Qoden2\obj\Debug\netcoreapp3.1\Qoden2.genruntimeconfig.cache

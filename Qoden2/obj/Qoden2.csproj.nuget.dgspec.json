@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1REPOS\\Qoden2\\Qoden2\\Qoden2.csproj": {}
+    "D:\\1REPOS\\Frequency-of-use-of-words\\Qoden2\\Qoden2.csproj": {}
   },
   "projects": {
-    "D:\\1REPOS\\Qoden2\\Qoden2\\Qoden2.csproj": {
+    "D:\\1REPOS\\Frequency-of-use-of-words\\Qoden2\\Qoden2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1REPOS\\Qoden2\\Qoden2\\Qoden2.csproj",
+        "projectUniqueName": "D:\\1REPOS\\Frequency-of-use-of-words\\Qoden2\\Qoden2.csproj",
         "projectName": "Qoden2",
-        "projectPath": "D:\\1REPOS\\Qoden2\\Qoden2\\Qoden2.csproj",
+        "projectPath": "D:\\1REPOS\\Frequency-of-use-of-words\\Qoden2\\Qoden2.csproj",
         "packagesPath": "C:\\Users\\danam\\.nuget\\packages\\",
-        "outputPath": "D:\\1REPOS\\Qoden2\\Qoden2\\obj\\",
+        "outputPath": "D:\\1REPOS\\Frequency-of-use-of-words\\Qoden2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danam\\AppData\\Roaming\\NuGet\\NuGet.Config"

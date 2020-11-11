@@ -1,0 +1,1 @@
+Generator of a diagram of the relative frequency of words in the text.
